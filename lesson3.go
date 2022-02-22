@@ -3,7 +3,6 @@ package lesson3
 import (
 	"fmt"
 	"github.com/pkg/errors"
-	_ "github.com/valyala/fasthttp"
 	"log"
 )
 
