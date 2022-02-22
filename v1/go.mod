@@ -1,4 +1,4 @@
-module github.com/ikr0ni/lesson3
+module github.com/ikr0ni/lesson3/v1
 
 go 1.14
 
